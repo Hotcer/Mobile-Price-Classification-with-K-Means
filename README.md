@@ -37,6 +37,13 @@ El código se provee en un Jupyter Notebook bien documentado que permite replica
 -  Evaluación del modelo: Calcula métricas de evaluación como inertia y silhouette score para determinar la calidad del modelo entrenado.
 -  Código reusable: El código está modularizado y comentado para que sea fácil de reutilizar y expandir.
 
+## Necessary facilities
+
+     Python 3.7 or higher
+     numpy
+     panda
+     seaborn
+     matplotlib
 
 ## Author
 
