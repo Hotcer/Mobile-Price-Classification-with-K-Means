@@ -38,9 +38,13 @@ El código se provee en un Jupyter Notebook bien documentado que permite replica
 -  Código reusable: El código está modularizado y comentado para que sea fácil de reutilizar y expandir.
 
 
+## Author
 
+- [@Hotcer](https://github.com/Hotcer)
 
+## Feedback
 
+If you have any feedback, please reach out to us at drumenatecreu@proton.me
     
 
 
