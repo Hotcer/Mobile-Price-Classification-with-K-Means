@@ -62,7 +62,7 @@ Al enviar una pull request, asegúrate de seguir las siguientes pautas:
 
 ¡Agradecemos cualquier contribución que puedas brindar al proyecto! Por favor no dudes en contactarnos si tienes preguntas.
 
-Este texto invita a los usuarios a contribuir y les da algunas directrices básicas para hacerlo de manera apropiada. Puedes modificarlo o expandirlo según necesites. ¡Házmelo saber si deseas que lo revise o actualice de alguna forma!
+
 
     
 
