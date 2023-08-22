@@ -45,6 +45,25 @@ El código se provee en un Jupyter Notebook bien documentado que permite replica
 ## Feedback
 
 If you have any feedback, please reach out to us at drumenatecreu@proton.me
+
+## Contributing
+
+Las contribuciones al proyecto son bienvenidas. Por favor, crea un issue o pull request siguiendo las pautas de contribución indicadas abajo.
+
+Al contribuir a este repositorio, primero discute el cambio que deseas hacer mediante un issue, email o cualquier otro método con los propietarios de este repositorio antes de hacer un cambio.
+
+Al enviar una pull request, asegúrate de seguir las siguientes pautas:
+
+    Usa un estilo de codificación consistente con el del proyecto (identación, punto y coma, etc).
+    Comenta tu código.
+    Crea tests para cualquier nuevo código agregado.
+    Asegúrate que todos los tests pasen antes de enviar la PR.
+    Haz PRs pequeños para facilitar la revisión.
+
+¡Agradecemos cualquier contribución que puedas brindar al proyecto! Por favor no dudes en contactarnos si tienes preguntas.
+
+Este texto invita a los usuarios a contribuir y les da algunas directrices básicas para hacerlo de manera apropiada. Puedes modificarlo o expandirlo según necesites. ¡Házmelo saber si deseas que lo revise o actualice de alguna forma!
+
     
 
 
