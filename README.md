@@ -1,5 +1,5 @@
 
-# Clasificacion de Precios de Moviles con K-Vecinos
+# Clasificación de Precios de Moviles con K-Vecinos
 
 
 
@@ -16,7 +16,7 @@
   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINISHED-green)
 
 
-## Descripcion
+## Descripción
 
 "Mobile Price Classification with K-Means es un proyecto que aplica el algoritmo de clustering K-Means para categorizar y clasificar teléfonos móviles en diferentes rangos de precios. Utilizando Python y scikit-learn, el proyecto entrena un modelo de K-Means para agrupar teléfonos móviles en clusters o clases basado en características como RAM, almacenamiento interno, tamaño de pantalla, etc.
 
@@ -25,7 +25,7 @@ Luego se etiquetan estos grupos con rangos de precios como "bajo", "medio", "alt
 El código se provee en un Jupyter Notebook bien documentado que permite replicar los resultados. El proyecto es útil tanto para entusiastas de Machine Learning como para profesionales de marketing y data science en la industria móvil." ![](https://i.imgur.com/RhuLe6Z.png)
 
 
-## Caracteristicas
+## Características
 
 -  Carga y limpieza de datos: El proyecto incluye código para importar y preparar los datos de entrenamiento, como características de teléfonos móviles y precios.
 -  Clasificación de precios: Etiqueta cada grupo o clúster de teléfonos con un rango de precios como "bajo", "medio", "alto", permitiendo clasificar nuevos datos.
@@ -43,7 +43,7 @@ El código se provee en un Jupyter Notebook bien documentado que permite replica
      seaborn
      matplotlib
 
-## Author
+## Autor
 
 - [@Hotcer](https://github.com/Hotcer)
 
