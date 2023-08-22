@@ -33,9 +33,9 @@ El código se provee en un Jupyter Notebook bien documentado que permite replica
 -     Clasificación de precios: Etiqueta cada grupo o clúster de teléfonos con un rango de precios como "bajo", "medio", "alto", permitiendo clasificar nuevos datos.
 -     Notebooks interactivos: El proyecto está implementado en notebooks Jupyter interactivos para facilitar su uso y modificación.
 -     Visualizaciones y análisis: Incluye visualizaciones como gráficos de dispersión e histogramas para entender la distribución de precios.
--         Entrenamiento de modelo K-Means: Entrena un modelo de clusterización K-Means para agrupar teléfonos móviles en base a sus características.
--         Evaluación del modelo: Calcula métricas de evaluación como inertia y silhouette score para determinar la calidad del modelo entrenado.
--         Código reusable: El código está modularizado y comentado para que sea fácil de reutilizar y expandir.
+-     Entrenamiento de modelo K-Means: Entrena un modelo de clusterización K-Means para agrupar teléfonos móviles en base a sus características.
+-     Evaluación del modelo: Calcula métricas de evaluación como inertia y silhouette score para determinar la calidad del modelo entrenado.
+-     Código reusable: El código está modularizado y comentado para que sea fácil de reutilizar y expandir.
 
 
 
