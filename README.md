@@ -42,9 +42,6 @@ El código se provee en un Jupyter Notebook bien documentado que permite replica
 
 - [@Hotcer](https://github.com/Hotcer)
 
-## Feedback
-
-If you have any feedback, please reach out to us at drumenatecreu@proton.me
 
 ## Contributing
 
@@ -61,6 +58,10 @@ Al enviar una pull request, asegúrate de seguir las siguientes pautas:
     Haz PRs pequeños para facilitar la revisión.
 
 ¡Agradecemos cualquier contribución que puedas brindar al proyecto! Por favor no dudes en contactarnos si tienes preguntas.
+
+## Feedback
+
+If you have any feedback, please reach out to us at drumenatecreu@proton.me
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
