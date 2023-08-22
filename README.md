@@ -24,7 +24,7 @@
 
 Luego se etiquetan estos grupos con rangos de precios como "bajo", "medio", "alto". De esta forma, el modelo puede predecir en qué rango de precios pertenecería un nuevo dispositivo dado sus características. Este sistema de clasificación por clústeres permite entender mejor la segmentación del mercado de teléfonos móviles.
 
-El código se provee en un Jupyter Notebook bien documentado que permite replicar los resultados. El proyecto es útil tanto para entusiastas de Machine Learning como para profesionales de marketing y data science en la industria móvil." ![](https://i.imgur.com/7NOVmJR.png)
+El código se provee en un Jupyter Notebook bien documentado que permite replicar los resultados. El proyecto es útil tanto para entusiastas de Machine Learning como para profesionales de marketing y data science en la industria móvil." ![](https://i.imgur.com/RhuLe6Z.png)
 
 
 ## Features
